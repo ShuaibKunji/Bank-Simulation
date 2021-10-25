@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Sim
 
 main :: IO ()
-main = someFunc
+main = print(waitTimes 100)

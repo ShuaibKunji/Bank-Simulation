@@ -6,7 +6,7 @@ cabal-version: 1.12
 
 name:           Bank-Simulation
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/Bank-Simulation#readme>
+description:    Please see the README on GitHub at <https://github.com/ShuaibKunji/Bank-Simulation#readme>
 homepage:       https://github.com/ShuaibKunji/Bank-Simulation#readme
 bug-reports:    https://github.com/ShuaibKunji/Bank-Simulation/issues
 author:         Shuaib Sabir Kunji
@@ -25,9 +25,9 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Sim
   other-modules:
-      Paths_Bank_Simulation
+      Lib
   hs-source-dirs:
       src
   build-depends:
